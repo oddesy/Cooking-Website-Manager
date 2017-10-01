@@ -2,10 +2,44 @@ body {
 	font-family: Arial;
 }
 
-h1 {
-	color: #ee3e80;
+p {
+	color: #ffffff;
 }
 
-p {
-	color: #ee3e80;
+.wrapper {
+	text-align: center;
+	background-attachment: fixed;
+	width: 1265px;
+	height: 100px;
+	border: 0px;
+	padding: 0px
+}
+
+h1.wrapper {
+	text-align: left;
+	font: Verdana;
+}
+
+.right {
+	float: right;
+	margin: 5px;
+	padding: 5px;
+	color: #0000ff;
+}
+
+.center1 {
+	color: #000000;
+	border: 1px;
+	border-color: #0000ff;
+}
+
+body {
+	background-color: #cccccc;
+}
+
+#pages {
+	color: #0000ff;
+}
+title.head {
+	
 }
